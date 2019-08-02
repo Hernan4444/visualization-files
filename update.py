@@ -47,10 +47,10 @@ def get_sheet_info():
     else:
         return values
 
-# data = get_sheet_info()
-# with open("Registro.csv", "w", encoding="UTF-8") as file:
-#     for line in data:
-#         file.write(";".join(line) + "\n")
+data = get_sheet_info()
+with open("Registro.csv", "w", encoding="UTF-8") as file:
+    for line in data:
+        file.write(";".join(line) + "\n")
 
 user = sys.argv[1]
 password = sys.argv[2]
