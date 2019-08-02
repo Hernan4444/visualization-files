@@ -49,3 +49,7 @@ with open("Registro.csv", "w", encoding="UTF-8") as file:
 
 os.system("python3 cursos_uc_csv_to_json.py 3")
 os.system("python3 cursos_uc_csv_to_json.py 2")
+os.system("git status")
+os.system("git add .")
+os.system('git commit -m "automatic update"')
+os.system('git push')
