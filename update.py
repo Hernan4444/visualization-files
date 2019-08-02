@@ -1,7 +1,12 @@
 import os
 import pickle
 from googleapiclient.discovery import build
+from dotenv import load_dotenv
+from pathlib import Path  # python3 only
+import sys
 
+env_path = Path('.') / '.env'
+load_dotenv(dotenv_path=env_path)
 
 ID = "1Wevi-zEFdbNymlPeVVvgsAcVlQl_s8oROQHo2R3K-tc"
 SCOPES = 'https://www.googleapis.com/auth/spreadsheets'
@@ -47,9 +52,12 @@ with open("Registro.csv", "w", encoding="UTF-8") as file:
     for line in data:
         file.write(";".join(line) + "\n")
 
-os.system("python3 cursos_uc_csv_to_json.py 3")
-os.system("python3 cursos_uc_csv_to_json.py 2")
+user = sys.argv[1]
+password = sys.argv[2]
+repo = sys.argv[3]
+
+os.system("python3 cursos_uc_csv_to_json.py")
 os.system("git status")
 os.system("git add .")
 os.system('git commit -m "automatic update"')
-os.system('git push')
+os.system('git push https://{}:{}@{}.biz/file.git --all'.format(user, password, repo))
