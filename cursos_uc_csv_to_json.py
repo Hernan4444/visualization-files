@@ -28,7 +28,7 @@ print(group_dataset_2.head())
 for line in group_dataset.itertuples():
 
     _, curso, sigle_section, time, type_vacant, ofrecidas, cupos_disponibles = line
-    if sigle_section[:4] != "IIC{}".format(sys.argv[1]) or ofrecidas == 0:
+    if ofrecidas == 0:
         continue
 
     if sigle_section not in data:
@@ -54,5 +54,5 @@ for line in group_dataset_2.itertuples():
 
 import json
 
-with open("cursos_{}.json".format(sys.argv[1]), "w", encoding="UTF-8") as file2:
+with open("cursos.json".format(sys.argv[1]), "w", encoding="UTF-8") as file2:
     json.dump(data, file2, indent=4, ensure_ascii=False)
