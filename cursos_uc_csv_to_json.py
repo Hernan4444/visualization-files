@@ -47,7 +47,7 @@ for line in group_dataset.itertuples():
 for line in group_dataset_2.itertuples():
 
     _, curso, sigle_section, time, ofrecidas, cupos_disponibles = line
-    if sigle_section[:4] != "IIC{}".format(sys.argv[1]) or ofrecidas == 0:
+    if ofrecidas == 0:
         continue
 
     data[sigle_section]["total_available"].append({"time": str(time).split(".")[0], "count": cupos_disponibles})
