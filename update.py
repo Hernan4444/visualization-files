@@ -59,5 +59,6 @@ repo = sys.argv[3]
 os.system("python3 cursos_uc_csv_to_json.py")
 os.system("git status")
 os.system("git add .")
+os.system('git config user.email "hfvaldivieso@uc.cl"')
 os.system('git commit -m "automatic update"')
 os.system('git push https://{}:{}@{} --all'.format(user, password, repo))
