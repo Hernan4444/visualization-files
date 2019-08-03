@@ -1,0 +1,1520 @@
+{
+    "IIC2343-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ciencias Biológicas": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Arquitectura de Computadores",
+        "section": "1"
+    },
+    "IIC2173-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Arquitectura de Sistemas de Software",
+        "section": "1"
+    },
+    "IIC2413-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Bases de Datos",
+        "section": "1"
+    },
+    "IIC2413-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 9
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 7
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ]
+        },
+        "nombre": "Bases de Datos",
+        "section": "2"
+    },
+    "IIC1005-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 9
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 6
+                }
+            ]
+        },
+        "nombre": "Computación: Ciencia y Tecnología del Mundo Digital",
+        "section": "1"
+    },
+    "IIC2764-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Conocimiento, Cultura y Tecnología",
+        "section": "1"
+    },
+    "IIC3686-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 3
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ]
+        },
+        "nombre": "Creacion de Videojuegos",
+        "section": "1"
+    },
+    "IIC2113-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Diseño Detallado de Software",
+        "section": "1"
+    },
+    "IIC2283-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 3
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ]
+        },
+        "nombre": "Diseño y Análisis de Algoritmos",
+        "section": "1"
+    },
+    "IIC3743-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Estrategias y Tecnologías de Información",
+        "section": "1"
+    },
+    "IIC2133-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Estructuras de Datos y Algoritmos",
+        "section": "1"
+    },
+    "IIC2714-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 1
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 1
+                }
+            ]
+        },
+        "nombre": "Fundamentos de Procesamiento de Imágenes",
+        "section": "1"
+    },
+    "IIC3113-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 2
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Gestión de Proyectos de Tecnologías de Información",
+        "section": "1"
+    },
+    "IIC2143-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 6
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ]
+        },
+        "nombre": "Ingeniería de Software",
+        "section": "1"
+    },
+    "IIC2143-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Ingeniería de Software",
+        "section": "2"
+    },
+    "IIC2613-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 14
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 12
+                }
+            ]
+        },
+        "nombre": "Inteligencia Artificial",
+        "section": "1"
+    },
+    "IIC1062-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introduccion a las Aplicaciones Computacionales",
+        "section": "1"
+    },
+    "IIC1062-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introduccion a las Aplicaciones Computacionales",
+        "section": "2"
+    },
+    "IIC1103-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 1
+            }
+        ],
+        "type_available": {
+            "Ciencias Biológicas": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 1
+                }
+            ],
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Matemática": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "1"
+    },
+    "IIC1103-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "2"
+    },
+    "IIC1103-3": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 4
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 4
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "3"
+    },
+    "IIC1103-4": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "4"
+    },
+    "IIC1103-5": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "5"
+    },
+    "IIC1103-6": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "6"
+    },
+    "IIC1103-7": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "7"
+    },
+    "IIC1103-8": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 9
+            }
+        ],
+        "type_available": {
+            "Física": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ],
+            "Matemática": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 7
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "8"
+    },
+    "IIC1103-9": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 6
+            }
+        ],
+        "type_available": {
+            "Astrofísica": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Ciencias Biológicas": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Física": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 6
+                }
+            ]
+        },
+        "nombre": "Introducción a la Programación",
+        "section": "9"
+    },
+    "IIC2985-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 36
+            }
+        ],
+        "type_available": {
+            "Vacantes Libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 36
+                }
+            ]
+        },
+        "nombre": "Investigacion o Proyecto",
+        "section": "1"
+    },
+    "IIC2986-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 50
+            }
+        ],
+        "type_available": {
+            "Vacantes Libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 50
+                }
+            ]
+        },
+        "nombre": "Investigacion o Proyecto",
+        "section": "1"
+    },
+    "IIC3773-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 3
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ]
+        },
+        "nombre": "Laboratorio de Resonancia Magnética",
+        "section": "1"
+    },
+    "IIC1253-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Matemáticas Discretas",
+        "section": "1"
+    },
+    "IIC1253-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Matemáticas Discretas",
+        "section": "2"
+    },
+    "IIC2433-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 3
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Minería de Datos",
+        "section": "1"
+    },
+    "IIC2733-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Modelos de Procesos",
+        "section": "1"
+    },
+    "IIC3783-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 13
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 13
+                }
+            ]
+        },
+        "nombre": "Procesamiento Avanzado de Imagenes",
+        "section": "1"
+    },
+    "IIC2233-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 2
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Matemática": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ]
+        },
+        "nombre": "Programación Avanzada",
+        "section": "1"
+    },
+    "IIC2233-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Matemática": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Programación Avanzada",
+        "section": "2"
+    },
+    "IIC2233-3": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Programación Avanzada",
+        "section": "3"
+    },
+    "IIC2233-4": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Vacantes Libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Programación Avanzada",
+        "section": "4"
+    },
+    "IIC2115-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Programación Como Herramienta para la Ingeniería",
+        "section": "1"
+    },
+    "IIC3373-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 23
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 23
+                }
+            ]
+        },
+        "nombre": "Programación Concurrente",
+        "section": "1"
+    },
+    "IIC2154-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 13
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 3
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 10
+                }
+            ]
+        },
+        "nombre": "Proyecto de Especialidad",
+        "section": "1"
+    },
+    "IIC2154-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Proyecto de Especialidad",
+        "section": "2"
+    },
+    "IIC2523-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 21
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 19
+                }
+            ]
+        },
+        "nombre": "Sistemas Distribuidos",
+        "section": "1"
+    },
+    "IIC2333-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 12
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 12
+                }
+            ]
+        },
+        "nombre": "Sistemas Operativos y Redes",
+        "section": "1"
+    },
+    "IIC3633-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 10
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 8
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ]
+        },
+        "nombre": "Sistemas Recomendadores",
+        "section": "1"
+    },
+    "IIC2713-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Sistemas de Información",
+        "section": "1"
+    },
+    "IIC2713-2": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Sistemas de Información",
+        "section": "2"
+    },
+    "IIC3562-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 19
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 19
+                }
+            ]
+        },
+        "nombre": "Taller de Groupware",
+        "section": "1"
+    },
+    "IIC2553-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 20
+            }
+        ],
+        "type_available": {
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 20
+                }
+            ]
+        },
+        "nombre": "Taller de Programación Competitiva II",
+        "section": "1"
+    },
+    "IIC3753-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 24
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 24
+                }
+            ]
+        },
+        "nombre": "Tecnologias para Gestion Estrategica",
+        "section": "1"
+    },
+    "IIC2513-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Tecnologías y Aplicaciones Web",
+        "section": "1"
+    },
+    "IIC2223-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 18
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 18
+                }
+            ]
+        },
+        "nombre": "Teoría de Autómatas y Lenguajes Formales",
+        "section": "1"
+    },
+    "IIC3263-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 6
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 6
+                }
+            ]
+        },
+        "nombre": "Teoría de Modelos Finitos",
+        "section": "1"
+    },
+    "IIC3745-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 0
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ]
+        },
+        "nombre": "Testing",
+        "section": "1"
+    },
+    "IIC2972-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 44
+            }
+        ],
+        "type_available": {
+            "Vacantes Libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 44
+                }
+            ]
+        },
+        "nombre": "Trabajo Personal Dirigido",
+        "section": "1"
+    },
+    "IIC2981-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 49
+            }
+        ],
+        "type_available": {
+            "Vacantes Libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 49
+                }
+            ]
+        },
+        "nombre": "Trabajo Personal Dirigido",
+        "section": "1"
+    },
+    "IIC3733-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 2
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 2
+                }
+            ]
+        },
+        "nombre": "Vision por Computador",
+        "section": "1"
+    },
+    "IIC2026-1": {
+        "total_available": [
+            {
+                "time": "2019-08-03 11:15:30",
+                "count": 2
+            }
+        ],
+        "type_available": {
+            "Ingeniería": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 0
+                }
+            ],
+            "Lic. Generales (College)": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 1
+                }
+            ],
+            "Vacantes libres": [
+                {
+                    "time": "2019-08-03 11:15:30",
+                    "count": 1
+                }
+            ]
+        },
+        "nombre": "Visualización de Información",
+        "section": "1"
+    }
+}
