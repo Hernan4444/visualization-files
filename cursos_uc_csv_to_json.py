@@ -54,5 +54,5 @@ for line in group_dataset_2.itertuples():
 
 import json
 
-with open("cursos.json", "w", encoding="UTF-8") as file2:
+with open("cursos_semestre.json", "w", encoding="UTF-8") as file2:
     json.dump(data, file2, indent=4, ensure_ascii=False)
